@@ -5,6 +5,7 @@ Use
 * EDA
 * Preprocessing & Feature Engineering
 * Training ML Model
+
 To predict in individuals having diabetes using data from "Diabetes" dataset from the National Institute of Diabetes and Digestive and Kidney Diseases 
 
 ## Project Info.
